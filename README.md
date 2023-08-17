@@ -24,18 +24,17 @@ Follow these steps to compile and run the source code:
 2. Open a terminal or command prompt and navigate to the project directory.
 
 3. Compile the source code using the following command:
-```bash
-gcc Question_1.c
+`gcc Question_1.c`
 If you are using a different C compiler, adjust the command accordingly.
 
-6. After successful compilation, an executable file named `a` (or the specified output filename) will be generated in the project directory.
+4. After successful compilation, an executable file named `a` (or the specified output filename) will be generated in the project directory.
 
-7. Run the program by executing the command: 
+5. Run the program by executing the command: 
 If you're on Windows, use the command `a` (or the specified output filename)  instead.
 
-8. The program will display the output of various calculations, including addition, subtraction, multiplication, and Fibonacci numbers.
+6. The program will display the output of various calculations, including addition, subtraction, multiplication, and Fibonacci numbers.
 
-9. Follow the on-screen instructions, if any, to provide input values or interact with the program.
+7. Follow the on-screen instructions, if any, to provide input values or interact with the program.
 
 ## Examples
 Here are some example inputs and outputs you may encounter while running the program:
